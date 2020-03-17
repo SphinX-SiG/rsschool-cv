@@ -12,7 +12,21 @@ As a python backend developer, mostly on Python3. Starting from using Python to 
 
 ### Skills
 
-    Section under construction
+Programming languages:
+
+- Python3
+- Golang
+- Javascript
+
+Databases:
+
+- PostgreSQL
+- MongoDB
+- Firebase
+
+Gained perks: Linux, Git, Docker, Jenkins, Advanced troubleshooting.
+
+Languages: Russian(native), English(B2)
 
 ### Contacts
 
