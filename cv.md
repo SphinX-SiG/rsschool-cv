@@ -28,6 +28,14 @@ Gained perks: Linux, Git, Docker, Jenkins, Advanced troubleshooting.
 
 Languages: Russian(native), English(B2)
 
+### Interests
+
+- Sport: Crossfit;
+- Skiing and snowboarding: Adore snow powder and forests;
+- Hiking and mountains;
+
+***
+
 ### Contacts
 
     email: bychok.vl@gmail.com
